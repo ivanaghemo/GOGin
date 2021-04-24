@@ -1,4 +1,4 @@
-module main.go
+module github.com/ivanaghemo/GOGin
 
 go 1.16
 
